@@ -6,7 +6,7 @@ namespace trial1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hey welcome to program world!");
+            Console.WriteLine("welcome to the program world!");
             Console.ReadLine();
         }
     }
