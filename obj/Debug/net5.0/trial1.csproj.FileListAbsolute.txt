@@ -1,0 +1,15 @@
+C:\Users\91992\source\repos\trial1\bin\Debug\net5.0\trial1.exe
+C:\Users\91992\source\repos\trial1\bin\Debug\net5.0\trial1.deps.json
+C:\Users\91992\source\repos\trial1\bin\Debug\net5.0\trial1.runtimeconfig.json
+C:\Users\91992\source\repos\trial1\bin\Debug\net5.0\trial1.runtimeconfig.dev.json
+C:\Users\91992\source\repos\trial1\bin\Debug\net5.0\trial1.dll
+C:\Users\91992\source\repos\trial1\bin\Debug\net5.0\ref\trial1.dll
+C:\Users\91992\source\repos\trial1\bin\Debug\net5.0\trial1.pdb
+C:\Users\91992\source\repos\trial1\obj\Debug\net5.0\trial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91992\source\repos\trial1\obj\Debug\net5.0\trial1.AssemblyInfoInputs.cache
+C:\Users\91992\source\repos\trial1\obj\Debug\net5.0\trial1.AssemblyInfo.cs
+C:\Users\91992\source\repos\trial1\obj\Debug\net5.0\trial1.csproj.CoreCompileInputs.cache
+C:\Users\91992\source\repos\trial1\obj\Debug\net5.0\trial1.dll
+C:\Users\91992\source\repos\trial1\obj\Debug\net5.0\ref\trial1.dll
+C:\Users\91992\source\repos\trial1\obj\Debug\net5.0\trial1.pdb
+C:\Users\91992\source\repos\trial1\obj\Debug\net5.0\trial1.genruntimeconfig.cache
